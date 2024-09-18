@@ -1,5 +1,7 @@
 <h1 align="center">🤖 LP Card</h1>
 
+[Link Behance](https://www.behance.net/gallery/208174111/Card-Landing-Page)
+
 ### `git clone`
 
 - **Faça o clone do repositório utilizando a linha de comando abaixo:**
